@@ -1,4 +1,4 @@
-# Using deep learning to predict EEG data
+# Using deep learning to classify EEG data 
 
 
 The data used for this study was obtained from the physionet sleep data.The jupyter notebook was duly added
